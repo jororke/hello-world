@@ -1,3 +1,3 @@
 # hello-world
 
-GitHub is tough.
+Text entry for Library Carpentry Workshop :)
