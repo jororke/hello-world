@@ -1,3 +1,3 @@
 # hello-world
 
-GitHub is otough.
+GitHub is tough.
